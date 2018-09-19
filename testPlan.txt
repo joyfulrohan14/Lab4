@@ -1,0 +1,42 @@
+1. 
+Input:
+{3 5 1 2}
+Output:
+{1 2 3 5}
+Test condition:
+Typical
+
+2. 
+Input:
+{25 31 12 41}
+Output:
+{12 25 31 41}
+Test condition:
+Typical
+
+3. 
+Input:
+null
+Output:
+throws exception
+Test condition:
+Exceptional
+
+4. 
+Input:
+{r s q t}
+Output:
+throws exception
+Test condition:
+Exceptional
+
+5. 
+Input:
+{2 2 2 2}
+Output:
+{2 2 2 2}
+Test condition:
+Typical
+
+
+
